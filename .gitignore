@@ -23,3 +23,11 @@
 hs_err_pid*
 replay_pid*
 .idea/
+/RestAssuredIndependetWork/.gradle/
+/RestAssuredIndependetWork/build/
+/RestAssuredIndependetWork/gradle/
+/RestAssuredIndependetWork/lombok.config
+/RestAssuredIndependetWork/settings.gradle
+/RestAssuredIndependetWork/gradle/
+/RestAssuredIndependetWork/src/test/resources/config.properties
+/RestAssuredIndependetWork/src/main/resources/config.properties
